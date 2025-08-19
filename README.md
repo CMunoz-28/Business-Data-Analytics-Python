@@ -10,7 +10,7 @@ This repository contains professional work samples based on the Udemy course “
 - Segmentation Techniques (RFM, GMM)
 - Causal Inference (Matching, Google Causal Impact)
 - Model Evaluation
-- Business Insight Generation
+- Business Insights
 
 ## Tools Used
 - Jupyter Notebook
