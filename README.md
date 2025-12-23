@@ -93,7 +93,7 @@ This approach reflects the role of a **modern business analyst** as a bridge bet
 
 ---
 
-## 💼 Purpose
+## Purpose
 
 This portfolio was created as part of my **career journey toward business analyst and marketing analytics roles**. It demonstrates my ability to apply **statistical reasoning and Python-based analytics** to complex business problems, while maintaining interpretability and real-world relevance.
 
