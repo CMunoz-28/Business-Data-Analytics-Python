@@ -1,7 +1,3 @@
-# 📊 Business Analytics with Python
-
-**Professional Projects Portfolio**
-
 ![Python](https://img.shields.io/badge/Python-Data%20Analytics-blue?logo=python)
 ![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20%26%20Inferential-purple)
 ![Regression](https://img.shields.io/badge/Models-Linear%20%26%20Logistic-orange)
@@ -10,6 +6,10 @@
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-yellow)
 ![Time%20Series](https://img.shields.io/badge/Forecasting-Facebook%20Prophet-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)
+
+# 📊 Business Analytics with Python
+
+**Professional Projects Portfolio**
 
 ---
 
