@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains **business analytics projects developed in Python** based on the Udemy course
 ***“[Business Data Analyst. Learn Python, Statistics, and Data Analytics using the latest industry tools](https://www.udemy.com/course/business-data-analytics-intelligence-with-python/)”***.
@@ -22,7 +22,7 @@ The work emphasizes **practical, business-oriented analytics**, combining **stat
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 * **Descriptive & Inferential Statistics**
   (mean, variance, confidence intervals, hypothesis testing)
@@ -66,7 +66,7 @@ The work emphasizes **practical, business-oriented analytics**, combining **stat
 
 ---
 
-## 🧠 Analytical Approach
+## Analytical Approach
 
 Across projects, the analytical workflow follows industry best practices:
 
@@ -80,7 +80,7 @@ This approach reflects the role of a **modern business analyst** as a bridge bet
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Python**
 * **Jupyter Notebook**
